@@ -1,0 +1,38 @@
+/*classTable.css*/
+.center{
+	text-align: center;
+}
+
+
+#class_table{
+	z-index: 2;
+	width: 530px;
+	margin: 0 auto;
+}
+#this_table tbody td p,#this_table tbody th p{
+	display: inline-block;
+	width: 60px;
+	font-size: 0.85em;
+}
+#this_table tbody td p{
+	min-height: 140px;
+}
+#this_table tbody th p{
+	min-height: 40px;
+}
+#this_table tbody tr td{
+	height: 180px;
+}
+#this_table tbody td,#this_table tbody th{
+  display: table-cell;
+  padding: 2px 10px;
+  border: solid #ece4d8;
+  border-width: 0 4px 4px 0;
+  color: #cd596b;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: .85em;
+}
+td{
+	text-align: center;
+}
