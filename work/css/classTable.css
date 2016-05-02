@@ -36,3 +36,12 @@
 td{
 	text-align: center;
 }
+
+.bj{
+	width: 540px;
+	height: 900px;
+	background: none;
+	border:none;
+	font-size: 20px;
+	text-indent: 2em;
+}

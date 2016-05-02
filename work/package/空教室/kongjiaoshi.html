@@ -1,0 +1,111 @@
+<!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>空教室</title>
+    <link rel="stylesheet" type="text/css" href="css/mainmain.css">
+</head>
+<body>
+    <div class="relative bg-h2co3 clearfix h800 flex-parent">
+        <div class="bg-white relative bg-white flex-child">
+            <input class="hd-input" maxlength="6" type="text" id="input"/>
+            <p id="p1">空教室查询</p>
+            <div id="wrap"></div>
+            <div class="top-corner bg-fc"></div>
+            <div class="bottom-corner bg-fc"></div>
+        </div>
+    </div>
+<!--引入无脑的本地js数据-->
+<script type="text/javascript" src="js/xuesi.js"></script>
+<script type="text/javascript">
+    //jQuery源代码的大addEvent函数
+    function addEvent(element,event,listener){
+        if(element.addEventListener){
+            element.addEventListener(event,listener,false);//不捕获
+        }
+        else if(element.attachEvent){
+            element.attachEvent("on"+event,listener);
+        }
+        else{
+            element["on"+event] = listener;
+        }
+    }   
+
+
+
+    var input = document.getElementById("input");
+    var p1 = document.getElementById("p1");
+    var wrap = document.getElementById("wrap");
+
+    function getNull(x){
+        var returnData=[];
+        if(x.length<1){
+            return false;
+        }
+        else{
+            for(var num=0;num<xuesi.length;num++){
+                //先查询各个教室的表
+                    //查询教室num的星期i
+                    for(var j in xuesi[num].list[x-1].course){
+                        //因为是JSON对象不是数组了所以用var in方法
+                        if(xuesi[num].list[x-1].course[j] != null){
+                            returnData.push('星期'+x+"第"+j+'节'+" "+xuesi[num].list[x-1].course[j]+"空");
+                            //课程信息压入returnData临时数组
+                        }
+                    }
+            }
+        }
+        return returnData;
+    }
+    document.onkeyup = function(){
+        var reg = /星期/ig;
+        var dayX = input.value;
+        if(/^[ ]{0,1}星期[ ]{0,1}[1-5][ ]{0,1}$/.test(dayX)==false){
+            return false;
+        }
+        dayX = dayX.replace(' ','');
+        dayX = dayX.replace(reg,'');
+        var arr = getNull(dayX);
+        arr = bubbleSort(arr);
+        //当使用IE/360兼容模式以外的浏览器时候可以使用console.log调试
+
+        //打印
+        wrap.innerHTML="";//初始化
+        for(var i in arr){
+            var p = document.createElement("p");
+            p.innerHTML = arr[i];
+            wrap.appendChild(p);
+        }
+    }
+
+    function bubbleSort(ar){
+        //这个冒泡不一样
+        //专门排星期的
+        //
+        var reg_0 = /星期[1-5]第[1-4]节/ig;
+        var reg_1 = /星期[1-5]/ig;
+        var reg_2 = /[1-4]/ig;
+        var mu = [[],[],[],[]];
+        var finalArr=[];
+        for(var i=0;i<ar.length;i++){
+            if(!reg_0.test(ar[i]))
+                return false;
+            else{
+                var str = ar[i].match(reg_0)[0];
+                str = str.replace(reg_1,'');
+                str = str.match(reg_2)[0];
+                mu[str-1].push( ar[i] );
+            }
+        }
+        for(var j=0;j<mu.length;j++){
+            for(var k=0;k<mu[j].length;k++){
+                finalArr.push(mu[j][k]);
+            }
+        }
+        return finalArr;
+    }
+</script>
+</body>
+</html>
