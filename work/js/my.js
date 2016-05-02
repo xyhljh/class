@@ -29,7 +29,7 @@ $(document).ready(function(){
   //课程数据源 {星期(1,2,3,4,5,6),课程:[{课程名称,老师名称,节次,节次时间}]} 
   var date = new Date().getMonth()+1+"-"+new Date().getDate();
   getWeek(date);
-  console.log(nowWeek);
+  //console.log(nowWeek);
   if(nowWeek==''){
     alert("不好意思！您在"+date+"当天休息!没有课程安排！");
   }
