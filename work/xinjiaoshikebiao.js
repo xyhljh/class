@@ -12,7 +12,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信与计算机网络",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "111",
                         "bgcolor": "#FFF68F"
@@ -21,7 +21,7 @@ var xinjiaoshikebiao=
                         "courseName": "移动通信原理与技术",
                         "teacherName": "张老师",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "112",
                         "bgcolor": "#FFEFD5"
@@ -30,7 +30,7 @@ var xinjiaoshikebiao=
                         "courseName": "光纤通信原理与技术",
                         "teacherName": "孙老师",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "113",
                         "bgcolor": "#FFE4E1"
@@ -39,7 +39,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "114",
                         "bgcolor": "#FFDEAD"
@@ -55,7 +55,7 @@ var xinjiaoshikebiao=
                         "courseName": "网络优化",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "121",
                         "bgcolor": "#FFC1C1"
@@ -64,7 +64,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "122",
                         "bgcolor": "#FFFFFF"
@@ -73,7 +73,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "孙老师",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "123",
                         "bgcolor": "#FFB90F"
@@ -82,7 +82,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "孙老师",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "124",
                         "bgcolor": "#FFA54F"
@@ -98,7 +98,7 @@ var xinjiaoshikebiao=
                         "courseName": "移动通信原理",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "131",
                         "bgcolor": "#FFB90F"
@@ -107,7 +107,7 @@ var xinjiaoshikebiao=
                         "courseName": "光纤通信原理与技术",
                         "teacherName": "张老师",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "132",
                         "bgcolor": "#FFA54F"
@@ -116,7 +116,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "133",
                         "bgcolor": "#FF8C00"
@@ -125,7 +125,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "134",
                         "bgcolor": "#FFFFFF"
@@ -141,7 +141,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "141",
                         "bgcolor": "#FF7F50"
@@ -150,7 +150,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "李老师",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "142",
                         "bgcolor": "#FF6EB4"
@@ -159,7 +159,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "143",
                         "bgcolor": "#FFFFFF"
@@ -168,7 +168,7 @@ var xinjiaoshikebiao=
                         "courseName": "接入网技术",
                         "teacherName": "于老师",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "144",
                         "bgcolor": "#FF4500"
@@ -184,7 +184,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "151",
                         "bgcolor": "#FFFFFF"
@@ -193,7 +193,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "152",
                         "bgcolor": "#FFFFFF"
@@ -202,7 +202,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信与计算机网络",
                         "teacherName": "孙老师",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "153",
                         "bgcolor": "#EEE8AA"
@@ -211,7 +211,7 @@ var xinjiaoshikebiao=
                         "courseName": "就业指导",
                         "teacherName": "沙老师",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "154",
                         "bgcolor": "#EEEE00"
@@ -232,7 +232,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信与计算机网络",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "211",
                         "bgcolor": "#C4C4C4"
@@ -241,7 +241,7 @@ var xinjiaoshikebiao=
                         "courseName": "移动通信原理与技术",
                         "teacherName": "张老师",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "212",
                         "bgcolor": "#BDB76B"
@@ -250,7 +250,7 @@ var xinjiaoshikebiao=
                         "courseName": "光纤通信原理与技术",
                         "teacherName": "孙老师",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "213",
                         "bgcolor": "#BBFFFF"
@@ -259,7 +259,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "214",
                         "bgcolor": "#FFFFFF"
@@ -275,7 +275,7 @@ var xinjiaoshikebiao=
                         "courseName": "网络优化",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "221",
                         "bgcolor": "#CAE1FF"
@@ -284,7 +284,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "222",
                         "bgcolor": "#FFFFFF"
@@ -293,7 +293,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "孙老师",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "223",
                         "bgcolor": "#C2C2C2"
@@ -302,7 +302,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "孙老师",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "224",
                         "bgcolor": "#C2C2C2"
@@ -318,7 +318,7 @@ var xinjiaoshikebiao=
                         "courseName": "移动通信原理",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "231",
                         "bgcolor": "#C0FF3E"
@@ -327,7 +327,7 @@ var xinjiaoshikebiao=
                         "courseName": "光纤通信原理与技术",
                         "teacherName": "张老师",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "232",
                         "bgcolor": "#C1FFC1"
@@ -336,7 +336,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "233",
                         "bgcolor": "#FFFFFF"
@@ -345,7 +345,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "234",
                         "bgcolor": "#FFFFFF"
@@ -361,7 +361,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "241",
                         "bgcolor": "#BA55D3"
@@ -370,7 +370,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "李老师",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "242",
                         "bgcolor": "#B7B7B7"
@@ -379,7 +379,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "243",
                         "bgcolor": "#FFFFFF"
@@ -388,7 +388,7 @@ var xinjiaoshikebiao=
                         "courseName": "接入网技术",
                         "teacherName": "于老师",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "244",
                         "bgcolor": "#B0C4DE"
@@ -404,7 +404,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "251",
                         "bgcolor": "#FFFFFF"
@@ -413,7 +413,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "252",
                         "bgcolor": "#FFFFFF"
@@ -422,7 +422,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信与计算机网络",
                         "teacherName": "孙老师",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "253",
                         "bgcolor": "#AB82FF"
@@ -431,7 +431,7 @@ var xinjiaoshikebiao=
                         "courseName": "就业指导",
                         "teacherName": "沙老师",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "254",
                         "bgcolor": "#9BCD9B"
@@ -452,7 +452,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信与计算机网络",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "311",
                         "bgcolor": "#EEDFCC"
@@ -461,7 +461,7 @@ var xinjiaoshikebiao=
                         "courseName": "移动通信原理与技术",
                         "teacherName": "张老师",
                         "pointName": 2,
-                        "className": "学思楼203",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "312",
                         "bgcolor": "#EED5B7"
@@ -470,7 +470,7 @@ var xinjiaoshikebiao=
                         "courseName": "光纤通信原理与技术",
                         "teacherName": "孙老师",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "313",
                         "bgcolor": "#EEC900"
@@ -479,7 +479,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "314",
                         "bgcolor": "#EEAEEE"
@@ -495,7 +495,7 @@ var xinjiaoshikebiao=
                         "courseName": "网络优化",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "321",
                         "bgcolor": "#EE9A49"
@@ -504,7 +504,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "322",
                         "bgcolor": "#FFFFFF"
@@ -513,7 +513,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "孙老师",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "323",
                         "bgcolor": "#EE8262"
@@ -522,7 +522,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "孙老师",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "324",
                         "bgcolor": "#EE7621"
@@ -538,7 +538,7 @@ var xinjiaoshikebiao=
                         "courseName": "移动通信原理",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "331",
                         "bgcolor": "#EEC591"
@@ -547,7 +547,7 @@ var xinjiaoshikebiao=
                         "courseName": "光纤通信原理与技术",
                         "teacherName": "张老师",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "332",
                         "bgcolor": "#EEAD0E"
@@ -556,7 +556,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "333",
                         "bgcolor": "#EE7AE9"
@@ -565,7 +565,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "334",
                         "bgcolor": "#FFFFFF"
@@ -581,7 +581,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "341",
                         "bgcolor": "#FF7F50"
@@ -590,7 +590,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "李老师",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "342",
                         "bgcolor": "#FF6EB4"
@@ -599,7 +599,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "343",
                         "bgcolor": "#FFFFFF"
@@ -608,7 +608,7 @@ var xinjiaoshikebiao=
                         "courseName": "接入网技术",
                         "teacherName": "于老师",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "344",
                         "bgcolor": "#E9967A"
@@ -624,7 +624,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "351",
                         "bgcolor": "#FFFFFF"
@@ -633,7 +633,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "352",
                         "bgcolor": "#FFFFFF"
@@ -642,7 +642,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信与计算机网络",
                         "teacherName": "孙老师",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "353",
                         "bgcolor": "#EE2C2C"
@@ -651,7 +651,7 @@ var xinjiaoshikebiao=
                         "courseName": "就业指导",
                         "teacherName": "沙老师",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "354",
                         "bgcolor": "#EE82EE"
@@ -672,7 +672,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信与计算机网络",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "411",
                         "bgcolor": "#00FF00"
@@ -681,7 +681,7 @@ var xinjiaoshikebiao=
                         "courseName": "移动通信原理与技术",
                         "teacherName": "张老师",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "412",
                         "bgcolor": "#00EE76"
@@ -690,7 +690,7 @@ var xinjiaoshikebiao=
                         "courseName": "光纤通信原理与技术",
                         "teacherName": "孙老师",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "413",
                         "bgcolor": "#00CDCD"
@@ -699,7 +699,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "414",
                         "bgcolor": "#00BFFF"
@@ -715,7 +715,7 @@ var xinjiaoshikebiao=
                         "courseName": "网络优化",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "421",
                         "bgcolor": "#008B45"
@@ -724,7 +724,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "422",
                         "bgcolor": "#FFFFFF"
@@ -733,7 +733,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "孙老师",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "423",
                         "bgcolor": "#006400"
@@ -742,7 +742,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "孙老师",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "424",
                         "bgcolor": "#0000AA"
@@ -758,7 +758,7 @@ var xinjiaoshikebiao=
                         "courseName": "移动通信原理",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "431",
                         "bgcolor": "#00FA9A"
@@ -767,7 +767,7 @@ var xinjiaoshikebiao=
                         "courseName": "光纤通信原理与技术",
                         "teacherName": "张老师",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "432",
                         "bgcolor": "#00EE00"
@@ -776,7 +776,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "433",
                         "bgcolor": "#00CD66"
@@ -785,7 +785,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "434",
                         "bgcolor": "#FFFFFF"
@@ -801,7 +801,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "441",
                         "bgcolor": "#00B2EE"
@@ -810,7 +810,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "李老师",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "442",
                         "bgcolor": "#008B00"
@@ -819,7 +819,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "443",
                         "bgcolor": "#FFFFFF"
@@ -828,7 +828,7 @@ var xinjiaoshikebiao=
                         "courseName": "接入网技术",
                         "teacherName": "于老师",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "444",
                         "bgcolor": "#0000FF"
@@ -844,7 +844,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "451",
                         "bgcolor": "#FFFFFF"
@@ -853,7 +853,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "452",
                         "bgcolor": "#FFFFFF"
@@ -862,7 +862,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信与计算机网络",
                         "teacherName": "孙老师",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "453",
                         "bgcolor": "009ACD"
@@ -871,7 +871,7 @@ var xinjiaoshikebiao=
                         "courseName": "就业指导",
                         "teacherName": "沙老师",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "454",
                         "bgcolor": "#00868B"
@@ -892,7 +892,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信与计算机网络",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "511",
                         "bgcolor": "#FFF68F"
@@ -901,7 +901,7 @@ var xinjiaoshikebiao=
                         "courseName": "移动通信原理与技术",
                         "teacherName": "张老师",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "512",
                         "bgcolor": "#FFEFD5"
@@ -910,7 +910,7 @@ var xinjiaoshikebiao=
                         "courseName": "光纤通信原理与技术",
                         "teacherName": "孙老师",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "513",
                         "bgcolor": "#FFE4E1"
@@ -919,7 +919,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "514",
                         "bgcolor": "#FFDEAD"
@@ -935,7 +935,7 @@ var xinjiaoshikebiao=
                         "courseName": "网络优化",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "521",
                         "bgcolor": "#FFC1C1"
@@ -944,7 +944,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "522",
                         "bgcolor": "#FFFFFF"
@@ -953,7 +953,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "孙老师",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "523",
                         "bgcolor": "#FFB90F"
@@ -962,7 +962,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "孙老师",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "524",
                         "bgcolor": "#FFA54F"
@@ -978,7 +978,7 @@ var xinjiaoshikebiao=
                         "courseName": "移动通信原理",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "531",
                         "bgcolor": "#FFB90F"
@@ -987,7 +987,7 @@ var xinjiaoshikebiao=
                         "courseName": "光纤通信原理与技术",
                         "teacherName": "张老师",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "532",
                         "bgcolor": "#FFA54F"
@@ -996,7 +996,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "533",
                         "bgcolor": "#FF8C00"
@@ -1005,7 +1005,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "534",
                         "bgcolor": "#FFFFFF"
@@ -1021,7 +1021,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "李老师",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "541",
                         "bgcolor": "#FF7F50"
@@ -1030,7 +1030,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信实训",
                         "teacherName": "李老师",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "542",
                         "bgcolor": "#FF6EB4"
@@ -1039,7 +1039,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "543",
                         "bgcolor": "#FFFFFF"
@@ -1048,7 +1048,7 @@ var xinjiaoshikebiao=
                         "courseName": "接入网技术",
                         "teacherName": "于老师",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "544",
                         "bgcolor": "#FF4500"
@@ -1064,7 +1064,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 1,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "8:00~8:45",
                         "mid": "551",
                         "bgcolor": "#FFFFFF"
@@ -1073,7 +1073,7 @@ var xinjiaoshikebiao=
                         "courseName": "自习课",
                         "teacherName": "",
                         "pointName": 2,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "9:00~9:45",
                         "mid": "552",
                         "bgcolor": "#FFFFFF"
@@ -1082,7 +1082,7 @@ var xinjiaoshikebiao=
                         "courseName": "数据通信与计算机网络",
                         "teacherName": "孙老师",
                         "pointName": 3,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "10:00~10:45",
                         "mid": "553",
                         "bgcolor": "#EEE8AA"
@@ -1091,7 +1091,7 @@ var xinjiaoshikebiao=
                         "courseName": "就业指导",
                         "teacherName": "沙老师",
                         "pointName": 4,
-                        "className": "学思楼202",
+                        "className": "学思楼121",
                         "pointTime": "11:00~11:45",
                         "mid": "554",
                         "bgcolor": "#EEEE00"
